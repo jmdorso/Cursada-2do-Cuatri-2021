@@ -1,0 +1,10 @@
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\Vista\bin\Debug\Vista.exe.config
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\Vista\bin\Debug\Vista.exe
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\Vista\bin\Debug\Vista.pdb
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\Vista\bin\Debug\EjercicioSumador.dll
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\Vista\bin\Debug\EjercicioSumador.pdb
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\Vista\obj\Debug\Vista.exe
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\Vista\obj\Debug\Vista.pdb

@@ -1,0 +1,6 @@
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\EjercicioSumador\bin\Debug\EjercicioSumador.dll
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\EjercicioSumador\bin\Debug\EjercicioSumador.pdb
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\EjercicioSumador\obj\Debug\EjercicioSumador.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\EjercicioSumador\obj\Debug\EjercicioSumador.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\EjercicioSumador\obj\Debug\EjercicioSumador.dll
+C:\Users\Compumar\source\repos\2doCuatri2021\EjercicioSumador\EjercicioSumador\obj\Debug\EjercicioSumador.pdb
