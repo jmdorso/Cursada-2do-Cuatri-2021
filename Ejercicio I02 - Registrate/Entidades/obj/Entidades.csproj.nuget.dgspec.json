@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Compumar\\source\\repos\\2doCuatri2021\\Ejercicio I02 - Registrate\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\Compumar\\source\\repos\\Cursada-2do-Cuatri-2021\\Ejercicio I02 - Registrate\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Compumar\\source\\repos\\2doCuatri2021\\Ejercicio I02 - Registrate\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Compumar\\source\\repos\\Cursada-2do-Cuatri-2021\\Ejercicio I02 - Registrate\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Compumar\\source\\repos\\2doCuatri2021\\Ejercicio I02 - Registrate\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Compumar\\source\\repos\\Cursada-2do-Cuatri-2021\\Ejercicio I02 - Registrate\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Compumar\\source\\repos\\2doCuatri2021\\Ejercicio I02 - Registrate\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Compumar\\source\\repos\\Cursada-2do-Cuatri-2021\\Ejercicio I02 - Registrate\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Compumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Compumar\\source\\repos\\2doCuatri2021\\Ejercicio I02 - Registrate\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Compumar\\source\\repos\\Cursada-2do-Cuatri-2021\\Ejercicio I02 - Registrate\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Compumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
